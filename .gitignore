@@ -1,0 +1,6 @@
+.env
+node_modules
+/.idea/.gitignore
+/.idea/ai-job-quest.iml
+/.idea/modules.xml
+/.idea/vcs.xml
